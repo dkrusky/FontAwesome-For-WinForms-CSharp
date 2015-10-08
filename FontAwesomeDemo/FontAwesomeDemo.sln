@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FontAwesomeDemo", "FontAwesomeDemo\FontAwesomeDemo.csproj", "{AA5C742F-CF0F-4414-A690-96C9ADAF3A47}"
+EndProject
+Global
+	GlobalSection(CodealikeProperties) = postSolution
+		SolutionGuid = a9a61624-110d-47f9-9d8c-2f57b6f42045
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA5C742F-CF0F-4414-A690-96C9ADAF3A47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA5C742F-CF0F-4414-A690-96C9ADAF3A47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA5C742F-CF0F-4414-A690-96C9ADAF3A47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA5C742F-CF0F-4414-A690-96C9ADAF3A47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
